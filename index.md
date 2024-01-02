@@ -18,3 +18,8 @@ This is another code example:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+This is a task list:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
